@@ -140,11 +140,13 @@ A Campus Complaint Management System built using the MERN Stack.
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect with Me
 
-📧 Email: **[vishalsince02@gmail.com](mailto:vishalsince02@gmail.com)**
+📧 **Email:** [vishalsince02@gmail.com](mailto:vishalsince02@gmail.com)
 
-💼 LinkedIn: *https://www.linkedin.com/in/vishal-kumar2005/*
+💼 **LinkedIn:** https://www.linkedin.com/in/vishal-kumar2005/
+
+🧩 **Codolio:** https://codolio.com/profile/Vishal_Singh
 
 ---
 
