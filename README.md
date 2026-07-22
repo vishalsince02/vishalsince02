@@ -62,6 +62,8 @@ I'm a Computer Science (AI) undergraduate at **Parul University** passionate abo
 * Docker
 * Git
 * GitHub
+* kubernetes
+* Kafka
 
 ---
 
@@ -119,15 +121,22 @@ A Campus Complaint Management System built using the MERN Stack.
 * AWS Cloud
 * Advanced DSA
 * System Design
+* Salesforce developer / Administrative
 
 ---
 
 ## 📚 Certifications
 
-* Oracle Certified Foundations Associate
-* Salesforce Agentblazer Champion
-* Cisco Networking Academy – IoT & Digital Transformation
-* NPTEL – Computer Networks
+☁️ AWS Certification
+☕ Oracle Certified Foundations Associate
+⚡ Salesforce Agentblazer Champion
+🌐 NPTEL – Computer Networks
+🤖 IBM Cognitive Class (DS0105EN)
+📡 Cisco – IoT & Digital Transformation
+💻 CodeChef Certification
+🚀 Google Grow Sales Certificate
+🏅 Skill India Certificate
+🏆 Hackathon Participation Certificate
 
 ---
 
@@ -135,11 +144,7 @@ A Campus Complaint Management System built using the MERN Stack.
 
 📧 Email: **[vishalsince02@gmail.com](mailto:vishalsince02@gmail.com)**
 
-💼 LinkedIn: *(Add your LinkedIn URL)*
-
-🌐 Portfolio: *(Add your Portfolio URL)*
-
-💻 GitHub: *(Add your GitHub URL)*
+💼 LinkedIn: *https://www.linkedin.com/in/vishal-kumar2005/*
 
 ---
 
