@@ -1,155 +1,154 @@
-# Hi 👋, I'm Vishal Kumar
+<div align="center">
 
-### AI Engineer | Java Backend Developer | Full-Stack Developer
+# Hi, I'm Vishal Kumar 👋
 
-I'm a Computer Science (AI) undergraduate at **Parul University** passionate about building scalable software and AI-powered applications. I enjoy solving challenging problems, developing backend systems, and applying machine learning to real-world use cases.
+### AI Engineer &nbsp;|&nbsp; Java Backend Developer &nbsp;|&nbsp; Full-Stack Developer
 
----
+Building scalable backend systems and AI-powered applications that solve real problems.
 
-## 🚀 About Me
+<a href="mailto:vishalsince02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishal-kumar2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codolio.com/profile/Vishal_Singh"><img src="https://img.shields.io/badge/Codolio-6C3EF5?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
-* 🎓 B.Tech CSE (AI), Parul University (2023–2027)
-* 💻 Java Backend & AI/ML Enthusiast
-* 🌱 Currently learning **Spring Boot, Microservices, Docker, AWS**
-* 🧠 Strong interest in **Backend Development, Artificial Intelligence, and System Design**
-* 🏆 Solved **500+ DSA Problems**
-* 💡 Love building projects that solve real-world problems
-* 📍 Vadodara, Gujarat, India
+</div>
 
----
+<br>
+
+## 🎯 About Me
+
+- 🎓 B.Tech in Computer Science (AI), **Parul University** — 2023–2027
+- 💻 Focused on **Backend Development, System Design & Applied AI**
+- 🌱 Currently deepening skills in **Spring Boot, Microservices, Docker & AWS**
+- 🏆 Solved **500+ Data Structures & Algorithms** problems
+- 💡 Passionate about turning real-world problems into working software
+- 📍 Based in Vadodara, Gujarat, India
+
+<br>
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages**
+<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-* Java
-* Python
-* JavaScript
-* SQL
+**Backend**
+<br>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
 
-### Backend
+**Frontend**
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-* Spring Boot
-* REST APIs
-* Node.js
-* Express.js
+**AI & Machine Learning**
+<br>
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Frontend
+**Database**
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-* React.js
-* HTML
-* CSS
-* JavaScript
+**Cloud & DevOps**
+<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### AI & Machine Learning
-
-* Scikit-learn
-* OpenCV
-* NLP
-* Computer Vision
-* Pandas
-* NumPy
-
-### Database
-
-* MySQL
-* MongoDB
-* Supabase
-
-### Cloud & DevOps
-
-* AWS
-* Docker
-* Git
-* GitHub
-* kubernetes
-* Kafka
-
----
+<br>
 
 ## 🚀 Featured Projects
 
-### 🧠 Intelligent AI Attendance System
+### 🧠 [Intelligent AI Attendance System](#)
+AI-powered attendance platform using facial recognition and machine learning.
+- Real-time face recognition with **OpenCV & dlib**
+- Role-based authentication for teachers & students
+- Automated attendance reports with **Supabase** integration
 
-An AI-powered attendance platform using facial recognition and machine learning.
+### 📄 [ResumeIQ AI](#)
+AI-powered resume screening and candidate matching platform.
+- NLP pipeline for resume classification & skill extraction
+- ATS score prediction and candidate ranking
+- **FastAPI** backend for fast, scalable inference
 
-**Highlights**
+### 🏫 [SmartCampus](#)
+Campus complaint management system built on the **MERN stack**.
+- JWT authentication with student, staff & admin roles
+- Complaint escalation workflow with search functionality
+- Media handling via **Cloudinary**
 
-* Face Recognition using OpenCV & dlib
-* Teacher & Student Dashboard
-* Role-Based Authentication
-* Real-time Attendance
-* Automated Reports
-* Supabase Integration
+> 💡 Replace the `#` links above with your actual GitHub repo URLs so recruiters can click straight through.
 
----
-
-### 📄 ResumeIQ AI
-
-AI-powered Resume Screening & Candidate Matching Platform.
-
-**Features**
-
-* Resume Classification
-* Skill Extraction
-* ATS Score Prediction
-* Candidate Ranking
-* FastAPI Backend
-* NLP Pipeline
-
----
-
-### 🏫 SmartCampus
-
-A Campus Complaint Management System built using the MERN Stack.
-
-**Features**
-
-* JWT Authentication
-* Student, Staff & Admin Roles
-* Complaint Escalation
-* Search Functionality
-* Cloudinary Integration
-
----
+<br>
 
 ## 📈 Currently Working On
 
-* Spring Boot Projects
-* Microservices
-* Docker
-* AWS Cloud
-* Advanced DSA
-* System Design
-* Salesforce developer / Administrative
+`Spring Boot` `Microservices` `Docker` `AWS Cloud` `Advanced DSA` `System Design` `Salesforce Dev/Admin`
 
----
+<br>
 
 ## 📚 Certifications
 
-☁️ AWS Certification
-☕ Oracle Certified Foundations Associate
-⚡ Salesforce Agentblazer Champion
-🌐 NPTEL – Computer Networks
-🤖 IBM Cognitive Class (DS0105EN)
-📡 Cisco – IoT & Digital Transformation
-💻 CodeChef Certification
-🚀 Google Grow Sales Certificate
-🏅 Skill India Certificate
-🏆 Hackathon Participation Certificate
+| Certification | Issuer |
+|---|---|
+| ☁️ AWS Certification | Amazon Web Services |
+| ☕ Oracle Certified Foundations Associate | Oracle |
+| ⚡ Salesforce Agentblazer Champion | Salesforce |
+| 🌐 Computer Networks | NPTEL |
+| 🤖 Cognitive Class (DS0105EN) | IBM |
+| 📡 IoT & Digital Transformation | Cisco |
+| 💻 Competitive Programming | CodeChef |
+| 🚀 Grow Sales Certificate | Google |
+| 🏅 Skill India Certificate | Skill India |
+| 🏆 Hackathon Participation | — |
 
----
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+> 💡 Replace `YOUR_GITHUB_USERNAME` in the stats URLs above with your actual GitHub username to activate these widgets.
+
+<br>
 
 ## 🌐 Connect with Me
 
-📧 **Email:** [vishalsince02@gmail.com](mailto:vishalsince02@gmail.com)
+<div align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/vishal-kumar2005/
+<a href="mailto:vishalsince02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishal-kumar2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codolio.com/profile/Vishal_Singh"><img src="https://img.shields.io/badge/Codolio-6C3EF5?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
-🧩 **Codolio:** https://codolio.com/profile/Vishal_Singh
+</div>
 
----
+<br>
 
-## 💬 Quote
+<div align="center">
 
-> *"Consistency beats intensity. Build. Learn. Improve. Repeat."* 🚀
+### 💬 "Consistency beats intensity. Build. Learn. Improve. Repeat." 🚀
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=6C3EF5&style=flat-square" />
+
+</div>
