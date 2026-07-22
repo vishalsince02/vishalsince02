@@ -129,7 +129,7 @@ Campus complaint management system built on the **MERN stack**.
 
 </div>
 
-> 💡 Replace `YOUR_GITHUB_USERNAME` in the stats URLs above with your actual GitHub username to activate these widgets.
+> 💡 Replace `vishalsince02` in the stats URLs above with your actual GitHub username to activate these widgets.
 
 <br>
 
