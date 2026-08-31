@@ -98,6 +98,8 @@ React Vite Node.js Express.js MongoDB MediaPipe Gemini AI JWT
 
 ### 🧠 [Intelligent AI Attendance System](#)
 
+*Repository:* [https://github.com/Vishalsince02/Intelligent-AI-Attendence](https://github.com/vishalsince02/Intelligent-AI-Attendence)
+
 AI-powered attendance platform using facial recognition and machine learning.
 
 * Real-time face recognition with **OpenCV & dlib**
@@ -106,6 +108,8 @@ AI-powered attendance platform using facial recognition and machine learning.
 
 ### 📄 [ResumeIQ AI](#)
 
+*Repository:* [https://github.com/Vishalsince02/ResumeIQ-AI](https://github.com/vishalsince02/ResumeIQ-AI)
+
 AI-powered resume screening and candidate matching platform.
 
 * NLP pipeline for resume classification & skill extraction
@@ -113,6 +117,8 @@ AI-powered resume screening and candidate matching platform.
 * **FastAPI** backend for fast, scalable inference
 
 ### 🏫 [SmartCampus](#)
+
+*Repository:* [https://github.com/Vishalsince02/SMART-CAMPUS](https://github.com/vishalsince02/SMART-CAMPUS)
 
 Campus complaint management system built on the **MERN stack**.
 
