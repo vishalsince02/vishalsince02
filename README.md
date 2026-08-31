@@ -78,7 +78,7 @@ Building scalable backend systems, CRM solutions, and AI-powered applications th
 > *AI-powered fitness coaching platform* that combines personalized workout planning, nutrition tracking, computer vision, and adaptive weekly coaching.
 
 *Live Demo:* https://fit-track-ai-sooty.vercel.app/  
-*Repository:* https://github.com/AnchitCode/FitTrack-AI
+*Repository:* [https://github.com/Vishalsince02/FITTRACK-AI](https://github.com/vishalsince02/FITTRACK-AI)
 
 ### What makes it interesting
 
