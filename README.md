@@ -73,14 +73,14 @@ Building scalable backend systems, CRM solutions, and AI-powered applications th
 
 ## 🚀 Featured Projects
 
-### 🏋️ FitTrack AI
+### 🏋️ [FitTrack AI](https://github.com/Vishalsince02/FITTRACK-AI)
 
 > *AI-powered fitness coaching platform* that combines personalized workout planning, nutrition tracking, computer vision, and adaptive weekly coaching.
 
-*Live Demo:* https://fit-track-ai-sooty.vercel.app/  
-*Repository:* [https://github.com/Vishalsince02/FITTRACK-AI](https://github.com/vishalsince02/FITTRACK-AI)
+**Live Demo:** https://fit-track-ai-sooty.vercel.app/  
+**Repository:** https://github.com/Vishalsince02/FITTRACK-AI
 
-### What makes it interesting
+#### What makes it interesting
 
 - 🤖 *AI Fitness Coach* powered by Gemini
 - 📷 *Real-time exercise tracking* using MediaPipe Pose
@@ -92,39 +92,104 @@ Building scalable backend systems, CRM solutions, and AI-powered applications th
 - 🌐 Production deployment with Vercel + Render
 - 🧪 *320 automated backend tests across 23 test suites*
 
-*Tech Stack*
+**Tech Stack**
 
-React Vite Node.js Express.js MongoDB MediaPipe Gemini AI JWT
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-### 🧠 [Intelligent AI Attendance System](#)
+---
 
-*Repository:* [https://github.com/Vishalsince02/Intelligent-AI-Attendence](https://github.com/vishalsince02/Intelligent-AI-Attendence)
+### 🧠 [Intelligent AI Attendance System](https://github.com/Vishalsince02/Intelligent-AI-Attendence)
 
-AI-powered attendance platform using facial recognition and machine learning.
+> *AI-powered facial recognition attendance platform* that automates student attendance using computer vision and provides secure role-based attendance management.
 
-* Real-time face recognition with **OpenCV & dlib**
-* Role-based authentication for teachers & students
-* Automated attendance reports with **Supabase** integration
+**Repository:** https://github.com/Vishalsince02/Intelligent-AI-Attendence
 
-### 📄 [ResumeIQ AI](#)
+#### What makes it interesting
 
-*Repository:* [https://github.com/Vishalsince02/ResumeIQ-AI](https://github.com/vishalsince02/ResumeIQ-AI)
+- 🤖 *AI-based face recognition* for automated attendance
+- 📷 Real-time facial detection and recognition using OpenCV & dlib
+- 🎓 Dedicated workflows for teachers and students
+- 🔐 Role-based authentication and access control
+- 📊 Automated attendance records and reporting
+- ☁️ Cloud-backed data management using Supabase
+- ⚡ Reduces manual attendance effort through automation
 
-AI-powered resume screening and candidate matching platform.
+**Tech Stack**
 
-* NLP pipeline for resume classification & skill extraction
-* ATS score prediction and candidate ranking
-* **FastAPI** backend for fast, scalable inference
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![dlib](https://img.shields.io/badge/dlib-FF6F00?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### 🏫 [SmartCampus](#)
+---
 
-*Repository:* [https://github.com/Vishalsince02/SMART-CAMPUS](https://github.com/vishalsince02/SMART-CAMPUS)
+### 📄 [ResumeIQ AI](https://github.com/Vishalsince02/ResumeIQ-AI)
 
-Campus complaint management system built on the **MERN stack**.
+> *AI-powered resume screening and candidate matching platform* that analyzes resumes, extracts skills, evaluates ATS compatibility, and helps rank candidates.
 
-* JWT authentication with student, staff & admin roles
-* Complaint escalation workflow with search functionality
-* Media handling via **Cloudinary**
+**Repository:** https://github.com/Vishalsince02/ResumeIQ-AI
+
+#### What makes it interesting
+
+- 🤖 *AI-powered resume analysis* and candidate screening
+- 📝 NLP-based resume classification and information extraction
+- 🔍 Automated skill and keyword extraction
+- 📊 ATS score prediction and resume evaluation
+- 🎯 Candidate ranking based on job requirements
+- ⚡ FastAPI backend for scalable AI inference
+- 🧩 Connects resume intelligence with recruitment workflows
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
+### 🏫 [SmartCampus](https://github.com/Vishalsince02/SMART-CAMPUS)
+
+> *Full-stack campus complaint management platform* that streamlines complaint submission, tracking, escalation, and resolution across students, staff, and administrators.
+
+**Repository:** https://github.com/Vishalsince02/SMART-CAMPUS
+
+#### What makes it interesting
+
+- 🎓 *Role-based campus management* for students, staff & administrators
+- 🔐 JWT-based authentication and authorization
+- 📝 Complaint creation, tracking, and management
+- 🔄 Complaint escalation workflow for unresolved issues
+- 🔍 Search and filtering for efficient complaint management
+- 📎 Media/file handling through Cloudinary
+- 🌐 Full-stack MERN architecture
+- ⚡ REST APIs for frontend-backend communication
+
+**Tech Stack**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
+
+---
 
 <br>
 
