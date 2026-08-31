@@ -73,6 +73,29 @@ Building scalable backend systems, CRM solutions, and AI-powered applications th
 
 ## 🚀 Featured Projects
 
+### 🏋️ FitTrack AI
+
+> *AI-powered fitness coaching platform* that combines personalized workout planning, nutrition tracking, computer vision, and adaptive weekly coaching.
+
+*Live Demo:* https://fit-track-ai-sooty.vercel.app/  
+*Repository:* https://github.com/AnchitCode/FitTrack-AI
+
+### What makes it interesting
+
+- 🤖 *AI Fitness Coach* powered by Gemini
+- 📷 *Real-time exercise tracking* using MediaPipe Pose
+- 🎯 Personalized workout and calorie targets
+- 📊 Progress analytics and weekly reviews
+- 🔄 Adaptive weekly planning based on user performance
+- 🔐 JWT-based authentication
+- 🏃 Exercise-level workout tracking
+- 🌐 Production deployment with Vercel + Render
+- 🧪 *320 automated backend tests across 23 test suites*
+
+*Tech Stack*
+
+React Vite Node.js Express.js MongoDB MediaPipe Gemini AI JWT
+
 ### 🧠 [Intelligent AI Attendance System](#)
 
 AI-powered attendance platform using facial recognition and machine learning.
