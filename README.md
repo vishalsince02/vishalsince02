@@ -17,8 +17,8 @@ Building scalable backend systems, CRM solutions, and AI-powered applications th
 * 🎓 B.Tech in Computer Science (AI), **Parul University** — 2023–2027
 * 💻 Focused on **Backend Development, Salesforce Development, System Design & Applied AI**
 * ☁️ Building knowledge in **Salesforce CRM, Apex, Lightning Web Components (LWC) & SOQL**
-* 🌱 Currently deepening skills in **Spring Boot, Microservices, Docker & AWS**
-* 🏆 Solved **500+ Data Structures & Algorithms** problems
+* 🌱 Currently deepening skills in **System Design, RAGs, AI Automation, Docker & AWS**
+* 🏆 Solved **1000+ Data Structures & Algorithms** problems
 * 💡 Passionate about turning real-world problems into scalable software and intelligent solutions
 
 <br>
