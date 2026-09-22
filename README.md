@@ -6,7 +6,7 @@
 
 Building scalable backend systems, CRM solutions, and AI-powered applications that solve real problems.
 
-<a href="mailto:vishalsince02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vishal-kumar2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://codolio.com/profile/Vishal_Singh"><img src="https://img.shields.io/badge/Codolio-6C3EF5?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="mailto:vishalsince02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vishal-kumar2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://codolio.com/profile/Vishal_Singh09"><img src="https://img.shields.io/badge/Codolio-6C3EF5?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
 </div>
 
