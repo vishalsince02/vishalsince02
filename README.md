@@ -2,7 +2,7 @@
 
 # Hi, I'm Vishal Kumar 👋
 
-### AI Engineer  |  Java Backend Developer  |  Salesforce Developer  |  Full-Stack Developer
+### AI-ML Engineer  |  Software Developer   |  Data Analytics  | Salesforce Developer
 
 Building scalable backend systems, CRM solutions, and AI-powered applications that solve real problems.
 
