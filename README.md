@@ -191,6 +191,74 @@ Building scalable backend systems, CRM solutions, and AI-powered applications th
 
 ---
 
+---
+
+### 📦 Supply Chain Performance Dashboard
+
+> Power BI + SQL based supply chain analytics dashboard designed to monitor supplier performance, inventory levels, order fulfillment, lead time, and defect rates.
+
+**Repository:** [Supply Chain Portfolio](https://github.com/vishalsince02/Supply-Chain-Portfolio)
+
+#### 🎯 Objective
+
+Build an interactive dashboard to analyze supply chain operations and help stakeholders monitor key operational KPIs.
+
+#### 📊 Key KPIs
+
+- 📈 Fill Rate
+- ⏱️ Average Lead Time
+- ❌ Defect Rate
+- 📦 Delivered Quantity
+- 🏭 Supplier Performance
+- 📊 Inventory Stock Level
+
+#### 🛠️ Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-217346?style=flat-square&logo=files&logoColor=white)
+
+#### 🔍 What I Analyzed
+
+- Supplier performance and delivery efficiency
+- Purchase order fulfillment
+- Inventory stock levels
+- Lead-time trends
+- Product defect rates
+- Operational KPIs for supply-chain monitoring
+
+#### 💼 Business Relevance
+
+This project demonstrates practical experience with **enterprise data operations, procurement analytics, ERP-oriented data, master data, KPI reporting, and supply-chain performance analysis**.
+
+---
+
+### 🛍️ Customer Behavior Data Analytics
+
+> End-to-end Data Analytics project analyzing customer shopping behavior using Python, SQL, and Power BI to identify purchasing patterns, customer segments, loyalty trends, and key business drivers.
+
+**Repository:** [Customer Trends](https://github.com/vishalsince02/Customer-Trends)
+
+#### 🎯 Objective
+
+Transform raw customer transaction data into actionable business insights through data cleaning, exploratory analysis, SQL analysis, visualization, and business reporting.
+
+#### 🔄 Project Workflow
+
+
+Raw Data
+   ↓
+Python Data Cleaning & EDA
+   ↓
+SQL Data Analysis
+   ↓
+Business Questions & KPIs
+   ↓
+Power BI Dashboard
+   ↓
+Insights & Recommendations
+
 <br>
 
 ## ☁️ Salesforce Skills
