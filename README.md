@@ -189,7 +189,6 @@ Building scalable backend systems, CRM solutions, and AI-powered applications th
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
 
----
 
 ---
 
@@ -234,30 +233,56 @@ This project demonstrates practical experience with **enterprise data operations
 
 ---
 
+
 ### 🛍️ Customer Behavior Data Analytics
 
-> End-to-end Data Analytics project analyzing customer shopping behavior using Python, SQL, and Power BI to identify purchasing patterns, customer segments, loyalty trends, and key business drivers.
+> End-to-end customer behavior analytics project using Python, SQL, and Power BI to analyze purchasing patterns, customer segments, subscription behavior, product performance, discounts, and revenue trends.
 
 **Repository:** [Customer Trends](https://github.com/vishalsince02/Customer-Trends)
 
 #### 🎯 Objective
 
-Transform raw customer transaction data into actionable business insights through data cleaning, exploratory analysis, SQL analysis, visualization, and business reporting.
+Analyze customer shopping data to identify purchasing patterns, customer segments, revenue drivers, subscription behavior, product performance, and demographic trends, and convert these findings into actionable business insights.
 
-#### 🔄 Project Workflow
+#### 📊 Dataset
 
+Retail customer shopping dataset containing **3,900 transaction records and 18 attributes** covering customer demographics, purchases, products, discounts, shipping, subscriptions, ratings, and previous purchase behavior.
 
-Raw Data
-   ↓
-Python Data Cleaning & EDA
-   ↓
-SQL Data Analysis
-   ↓
-Business Questions & KPIs
-   ↓
-Power BI Dashboard
-   ↓
-Insights & Recommendations
+#### 🔄 Analytics Workflow
+
+* 🐍 **Python:** Data cleaning, preprocessing, feature engineering, and exploratory data analysis
+* 🗄️ **SQL:** Business analysis, customer segmentation, KPI calculations, and advanced queries
+* 📊 **Power BI:** Interactive dashboard, KPI reporting, and business visualization
+* 💡 **Business Insights:** Customer behavior analysis and actionable recommendations
+
+#### 📈 Key Analysis
+
+* 👥 Customer segmentation into New, Returning, and Loyal customers
+* 💰 Revenue analysis by gender and age group
+* ☁️ Subscription vs. non-subscription customer analysis
+* 🏷️ Discount usage and discount dependency analysis
+* ⭐ Product rating and satisfaction analysis
+* 📦 Product popularity across categories
+* 🚚 Shipping type and purchase amount analysis
+* 🔄 Repeat buyer and subscription behavior analysis
+
+#### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+
+#### 💼 Business Value
+
+This project demonstrates an end-to-end **Data Analyst workflow**, from raw data preparation and exploratory analysis to SQL-based business analysis, Power BI dashboard development, KPI reporting, and actionable business insights.
+
+#### 📌 Resume Bullet
+
+Built an end-to-end **Customer Behavior Analytics project** using Python, SQL, and Power BI to analyze **3,900 retail transactions**, perform customer segmentation, evaluate subscription and discount behavior, identify product trends, and develop interactive KPI dashboards for business decision-making.
+
 
 <br>
 
