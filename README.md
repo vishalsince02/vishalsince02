@@ -36,8 +36,6 @@ Building scalable backend systems, CRM solutions, and AI-powered applications th
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=matplotlib\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square\&logo=python\&logoColor=white)
 
 **Backend** <br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
